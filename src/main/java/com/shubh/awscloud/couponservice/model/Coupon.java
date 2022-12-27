@@ -9,7 +9,6 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "coupon_ser")
 public class Coupon {
 
 	@Id
